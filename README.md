@@ -1,6 +1,6 @@
 # PWEB-6-Ajax
 
-Repository ini menampung tugas kelima mata kuliah pemrograman web yang berupa
+Repository ini menampung tugas keenam mata kuliah pemrograman web yang berupa
 form sederhana menggunakan HTML, framework CSS "Bootstrap", JS dan library Ajax
 milik:
 
